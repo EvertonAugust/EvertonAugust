@@ -1,4 +1,4 @@
-## Olá meu nome é Everton Augusto !!! 😎
+## Olá meu nome é Everton Augusto !! 😁😎
 
 - 🔭 Busco ser o melhor todo dia !
 
