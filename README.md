@@ -15,12 +15,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="55" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  
-          
-          
-          
-          
-  <img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+       
+      
 </div>
   
 ##
